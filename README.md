@@ -1,1 +1,1 @@
-basci check
+basic check
